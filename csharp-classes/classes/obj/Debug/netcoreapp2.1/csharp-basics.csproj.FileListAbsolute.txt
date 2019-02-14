@@ -1,0 +1,11 @@
+c:\Users\aaron.torres\Desktop\repos\c#\csharp-refresh\csharp-basics\csharp-basics\obj\Debug\netcoreapp2.1\csharp-basics.csprojAssemblyReference.cache
+c:\Users\aaron.torres\Desktop\repos\c#\csharp-refresh\csharp-basics\csharp-basics\obj\Debug\netcoreapp2.1\csharp-basics.csproj.CoreCompileInputs.cache
+c:\Users\aaron.torres\Desktop\repos\c#\csharp-refresh\csharp-basics\csharp-basics\obj\Debug\netcoreapp2.1\csharp-basics.AssemblyInfoInputs.cache
+c:\Users\aaron.torres\Desktop\repos\c#\csharp-refresh\csharp-basics\csharp-basics\obj\Debug\netcoreapp2.1\csharp-basics.AssemblyInfo.cs
+C:\Users\aaron.torres\Desktop\repos\c#\csharp-refresh\csharp-basics\csharp-basics\bin\Debug\netcoreapp2.1\csharp-basics.deps.json
+C:\Users\aaron.torres\Desktop\repos\c#\csharp-refresh\csharp-basics\csharp-basics\bin\Debug\netcoreapp2.1\csharp-basics.runtimeconfig.json
+C:\Users\aaron.torres\Desktop\repos\c#\csharp-refresh\csharp-basics\csharp-basics\bin\Debug\netcoreapp2.1\csharp-basics.runtimeconfig.dev.json
+C:\Users\aaron.torres\Desktop\repos\c#\csharp-refresh\csharp-basics\csharp-basics\bin\Debug\netcoreapp2.1\csharp-basics.dll
+C:\Users\aaron.torres\Desktop\repos\c#\csharp-refresh\csharp-basics\csharp-basics\bin\Debug\netcoreapp2.1\csharp-basics.pdb
+C:\Users\aaron.torres\Desktop\repos\c#\csharp-refresh\csharp-basics\csharp-basics\obj\Debug\netcoreapp2.1\csharp-basics.dll
+C:\Users\aaron.torres\Desktop\repos\c#\csharp-refresh\csharp-basics\csharp-basics\obj\Debug\netcoreapp2.1\csharp-basics.pdb
