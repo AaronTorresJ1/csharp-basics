@@ -1,0 +1,11 @@
+c:\Users\aaron.torres\Desktop\repos\c#\csharp-intro\csharp-loops\bin\Debug\netcoreapp2.1\csharp-loops.deps.json
+c:\Users\aaron.torres\Desktop\repos\c#\csharp-intro\csharp-loops\bin\Debug\netcoreapp2.1\csharp-loops.runtimeconfig.json
+c:\Users\aaron.torres\Desktop\repos\c#\csharp-intro\csharp-loops\bin\Debug\netcoreapp2.1\csharp-loops.runtimeconfig.dev.json
+c:\Users\aaron.torres\Desktop\repos\c#\csharp-intro\csharp-loops\bin\Debug\netcoreapp2.1\csharp-loops.dll
+c:\Users\aaron.torres\Desktop\repos\c#\csharp-intro\csharp-loops\bin\Debug\netcoreapp2.1\csharp-loops.pdb
+c:\Users\aaron.torres\Desktop\repos\c#\csharp-intro\csharp-loops\obj\Debug\netcoreapp2.1\csharp-loops.csprojAssemblyReference.cache
+c:\Users\aaron.torres\Desktop\repos\c#\csharp-intro\csharp-loops\obj\Debug\netcoreapp2.1\csharp-loops.csproj.CoreCompileInputs.cache
+c:\Users\aaron.torres\Desktop\repos\c#\csharp-intro\csharp-loops\obj\Debug\netcoreapp2.1\csharp-loops.AssemblyInfoInputs.cache
+c:\Users\aaron.torres\Desktop\repos\c#\csharp-intro\csharp-loops\obj\Debug\netcoreapp2.1\csharp-loops.AssemblyInfo.cs
+c:\Users\aaron.torres\Desktop\repos\c#\csharp-intro\csharp-loops\obj\Debug\netcoreapp2.1\csharp-loops.dll
+c:\Users\aaron.torres\Desktop\repos\c#\csharp-intro\csharp-loops\obj\Debug\netcoreapp2.1\csharp-loops.pdb
